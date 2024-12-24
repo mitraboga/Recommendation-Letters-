@@ -6,12 +6,10 @@ A structured compilation of all my recommendation and testimonial letters from m
 ## How to Navigate the Branches
 
 1. Click the branch switch tab in the top-left corner of the repository page.
-   *(![recco steps](https://github.com/user-attachments/assets/a791c99d-fc2f-4e2d-b9ae-854fd524ad7e)
-)*
+   *![recco steps](https://github.com/user-attachments/assets/a791c99d-fc2f-4e2d-b9ae-854fd524ad7e)*
 
 2. Select the desired branch corresponding to the school year.
-   *![recco step](https://github.com/user-attachments/assets/a86f9d23-0d0a-4cee-a249-cc31da2e5860)
-*
+   *![recco step](https://github.com/user-attachments/assets/a86f9d23-0d0a-4cee-a249-cc31da2e5860)*
 
 ---
 
