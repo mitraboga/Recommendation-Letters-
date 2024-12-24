@@ -14,6 +14,3 @@ A structured compilation of all my recommendation and testimonial letters from m
 ---
 
 This library contains my personal testimonials and/or recommendation letters from my professors, whom I have learned copiously from and deeply respect. This provides a clear and credible insight into my academic prowess and character.
-
----
-
